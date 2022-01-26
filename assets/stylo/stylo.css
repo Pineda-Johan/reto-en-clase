@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(201, 190, 190);
+    color: black;
+}
+
+#titulo_blog{
+    background-color: orange;
+    color: white;
+    text-align: center;
+    font-size: 5remte;
+}
+ol{
+    font-size: 0.5cm;
+}
+#causas_de_la_contaminación{
+    background-color: rgb(230, 233, 86)
+}
+#soluciones{
+    background-color: rgb(230, 233, 86);
+}
